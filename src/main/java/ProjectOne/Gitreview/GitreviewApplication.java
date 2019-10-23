@@ -8,6 +8,8 @@ public class GitreviewApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitreviewApplication.class, args);
+		System.out.println("Lets do it");
+
 	}
 
 }
